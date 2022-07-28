@@ -8,7 +8,7 @@ if choice =="1":
     web=doko
     chrome = webdriver.Chrome(executable_path='Your Path')
     chrome.get(web)
-    choicee = input("入室でいたら1をおす" )
+    choicee = input("入室できたら1をおす" )
     if choicee =="1":
         ka = int(input("何回送りますか？"))
         for i in range(ka):
