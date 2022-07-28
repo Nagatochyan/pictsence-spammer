@@ -9,6 +9,9 @@ os.system('color ' +random.choice(['a', 'b', 'c', 'd'])+ " & cls & title  Pictse
 def pict():
     clear = lambda: os.system('cls')
     clear()
+    print(f'[1]text spam')
+    print(f'[2]mass make room') 
+    print(f'[3]raid paintings')
     choice = input("Insert 1:" )
     if choice =="1":
         doko=input("部屋のURL")
