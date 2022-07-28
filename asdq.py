@@ -26,7 +26,8 @@ def pict():
                 mail.send_keys("Nagato")
                 element = chrome.find_element_by_xpath ('//*[@id="chatSubmitButton"]')
                 element.submit()
-                exit = input(f'エンターキーを押してください: ')
-                exit = clear()
-                exit = pict()
+    exit = input(f'エンターキーを押してください: ')
+    exit = clear()
+    exit = pict()
+
 pict()
