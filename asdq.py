@@ -4,7 +4,8 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 choice = input("Insert 1:" )
 if choice =="1":
-    web="https://pictsense.com/#!/1658918791374_56"
+    doko=input("部屋のURL")
+    web=doko
     chrome = webdriver.Chrome(executable_path='Your Path')
     chrome.get(web)
     choicee = input("入室でいたら1をおす" )
