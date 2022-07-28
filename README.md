@@ -8,4 +8,6 @@ asdq.pyが本物（？）はい。<br>
 # こんな感じです
 https://user-images.githubusercontent.com/94958239/181514177-21f44f35-f5d8-4c20-967d-ef5667aebab3.mp4
 <br>
+https://i.upload.systems/Nagatodeare/vkBLrT1E
+<br>
 なんか容量10mbまでしか送れないから結構動画短縮しました
