@@ -6,6 +6,8 @@ import os
 import random
 os.system('color ' +random.choice(['a', 'b', 'c', 'd'])+ " & cls & title  Pictsence Spammer")
 def pict():
+    clear = lambda: os.system('cls')
+    clear()
     choice = input("Insert 1:" )
     if choice =="1":
         doko=input("部屋のURL")
