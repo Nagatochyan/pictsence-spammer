@@ -1,6 +1,7 @@
 # pictsence-spammer
 ピクトセンス→https://pictsense.com　
 のスパマー
+# ~~なんでrequests使えないの死ね~~
 # 未完成
 asdq.pyが本物（？）はい。<br>
 もう一個のやつはマルチスレッドにしたやつ。見たらわかると思うけど抜き出しただけだから。察してください。<br>
