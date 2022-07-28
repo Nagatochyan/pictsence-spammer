@@ -4,8 +4,11 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import os
 import random
+import asyncio
+
 os.system('color ' +random.choice(['a', 'b', 'c', 'd'])+ " & cls & title  Pictsence Spammer")
 def pict():
+    asc = asyncio.get_event_loop()
     clear = lambda: os.system('cls')
     clear()
     choice = input("Insert 1:" )
