@@ -1,2 +1,3 @@
 # pictsence-spammer
-ピクトセンス→https://pictsense.com　のスパマー
+ピクトセンス→https://pictsense.com　
+のスパマー
